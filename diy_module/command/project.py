@@ -22,7 +22,7 @@ def start_job():
 @project_group.command()
 @click.argument('name')
 def func(name):
-    print(f'fuck {name}')
+    print(f'func {name}')
     # __name__='__main__'
     print(__name__)
     # pdb.set_trace()
