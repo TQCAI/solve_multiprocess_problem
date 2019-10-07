@@ -1,0 +1,8 @@
+main.py
+solve_click.py
+build
+dist
+.idea
+*.egg-info
+*.pyc
+__pycache__
